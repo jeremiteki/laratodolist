@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
        <meta charset="utf-8">
-<link href="//netdna.bootstrapcdn.com/twitter-bootstrap/2.3.1/css/bootstrap-combined.min.css"
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css"
 rel="stylesheet">
 		<style>
             table form { margin-bottom: 0; }
