@@ -1,0 +1,1 @@
+/var/www/laravelFM/app/views/posts/create.blade.php
